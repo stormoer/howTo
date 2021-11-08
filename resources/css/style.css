@@ -1,0 +1,27 @@
+*{
+	background-color: #e3daf3;
+}
+
+h1 {
+	font-size: 2rem;
+	color: #4fa7cc;
+	font-weight: 600;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.5rem;
+	color: #4fa7cc;
+}
+
+h3 {
+	font-size: 1.3rem;
+	color: #4fa7cc;
+}
+
+a {
+	background-color: #125b79;
+	color: #0062dc;
+	text-decoration: none;
+	padding: 20px;
+}
